@@ -2,6 +2,9 @@
 
 
 ## Jak używać
+
+Video z wyjasnieniem: https://youtube.com/watch?v=OZSCK3_I3z0
+
 1. Wejdź na stronę wyszukiwania punktu szczepienia https://pacjent.erejestracja.ezdrowie.gov.pl/
 2. Wprowadź na stronie kryteria wyszukiwania (województwo, zakres dat, godziny, typ szczepionki, rodzaj punktu)
 3. Otwórz konsolę: F12 -> Konsola
