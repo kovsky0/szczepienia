@@ -5,9 +5,7 @@ const getButton = (text) => {
   return x.length && x[0];
 };
 const ding = () => {
-  const a = new Audio(
-    "https://freesound.org/data/previews/387/387533_3829977-lq.mp3"
-  );
+  const a = new Audio("https://www.tones7.com/media/emergency_alarm.mp3");
   a.play();
 };
 const confirmDate = () => {
