@@ -27,6 +27,7 @@ const iterate = () => {
           selectButton.click();
           confirmDate();
           ding();
+          setTimeout(() => iterate(), 15000);
         } else {
           setTimeout(() => iterate(), 2500);
         }
